@@ -1,5 +1,5 @@
 ### Hi there 👋
-![LinkedIn][(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-ribeiro-de-campos-6a135331/)
+![(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-ribeiro-de-campos-6a135331/)
 
 
 
