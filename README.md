@@ -25,11 +25,9 @@
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
-<div style="background-color: black; padding: 10px; display: flex; align-items: flex-start;">
+<div style="background-color: black; display: flex; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=mateusribeirocampos&show_icons=true&theme=dark" alt="Mateus_Ribeiro_Campos's GitHub stats" style="max-width: 70%;">
-  </div>
-  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api?username=mateusribeirocampos&show_icons=true&theme=dark" alt="Mateus_Ribeiro_Campos's GitHub stats" style="max-width: 100%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusribeirocampos&amp;theme=github_dark&amp;layout=compact" alt="Mateus_Ribeiro_Campos's Github top langs" style="max-width: 100%;">
   </div>
 </div>
