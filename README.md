@@ -26,6 +26,11 @@
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
 ![Mateus_Campos's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusribeirocampos&show_icons=true&theme=dark)
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b58af437a874db168f78347b918c5147c966add4fbedeb0065e81f2b56e97938/68747470733a2f2f6769746875622d726561646d652d73746174732d77686561742d74776f2d35332e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6c6175726167726173736967267468656d653d6e656f6e26686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d66616c736526636f756e745f707269766174653d66616c7365266c61796f75743d636f6d70616374"><img src="https://camo.githubusercontent.com/b58af437a874db168f78347b918c5147c966add4fbedeb0065e81f2b56e97938/68747470733a2f2f6769746875622d726561646d652d73746174732d77686561742d74776f2d35332e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6c6175726167726173736967267468656d653d6e656f6e26686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d66616c736526636f756e745f707269766174653d66616c7365266c61796f75743d636f6d70616374" alt="" data-canonical-src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=mateusribeirocampos&amp;theme=neon&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" style="max-width: 100%;"></a></p>
+
+<div>
+  <a>
+    alt="langs usages" data-canonical-src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=mateusribeirocampos&amp;theme=neon&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" style="max-width: 100%;"></a></p>
+  </a>
+</div>
 
 ![count](https://komarev.com/ghpvc/?username=mateusribeirocampos&color=grey)
