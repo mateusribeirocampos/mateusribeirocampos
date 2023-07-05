@@ -25,10 +25,10 @@
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
-![Mateus_Campos's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusribeirocampos&show_icons=true&theme=dark)
-<div style="background-color: black;">
+![Mateus_Campos's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusribeirocampos&show_icons=true&theme=dark)<div style="background-color: black; padding: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusribeirocampos&layout=compact" alt="Top Languages" style="max-width: 100%;">
 </div>
+
 
 
 
