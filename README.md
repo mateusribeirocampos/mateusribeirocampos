@@ -26,11 +26,9 @@
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
 ![Mateus_Campos's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusribeirocampos&show_icons=true&theme=dark)
-
 <div>
-  <a>
-    alt="langs usages" data-canonical-src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=mateusribeirocampos&amp;theme=neon&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" style="max-width: 100%;"></a></p>
-  </a>
+  <img src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=mateusribeirocampos&amp;theme=neon&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt="langs usages" style="max-width: 100%;">
 </div>
+
 
 ![count](https://komarev.com/ghpvc/?username=mateusribeirocampos&color=grey)
