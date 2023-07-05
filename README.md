@@ -20,8 +20,8 @@
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
-![Mateus_Campos's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusribeirocampos&show_icons=true&theme=dracula)
+![Mateus_Campos's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusribeirocampos&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusribeirocampos&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusribeirocampos&layout=compact&color=dark)
 
 ![count](https://komarev.com/ghpvc/?username=mateusribeirocampos&color=grey)
