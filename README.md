@@ -1,4 +1,6 @@
 ### Hi there 👋
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/mateus-ribeiro-de-campos-6a135331/)
+
 
 ## Programming languages | using | learning
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
