@@ -27,8 +27,9 @@
 
 ![Mateus_Campos's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusribeirocampos&show_icons=true&theme=dark)
 <div>
-  <img src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=mateusribeirocampos&amp;theme=neon&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt="langs usages" style="max-width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusribeirocampos&layout=compact" alt="Top Languages" style="max-width: 100%;">
 </div>
+
 
 
 ![count](https://komarev.com/ghpvc/?username=mateusribeirocampos&color=grey)
