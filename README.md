@@ -22,4 +22,4 @@
 
 ![Mateus_Campos's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusribeirocampos&show_icons=true&theme=dracula)
 
-![count](https://komarev.com/ghpvc/?username=mateusribeirocampos)
+![count](https://komarev.com/ghpvc/?username=mateusribeirocampos&color=grey)
