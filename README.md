@@ -22,6 +22,6 @@
 
 ![Mateus_Campos's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusribeirocampos&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusribeirocampos&layout=compact&color=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusribeirocampos&layout=compact&style=dark)
 
 ![count](https://komarev.com/ghpvc/?username=mateusribeirocampos&color=grey)
