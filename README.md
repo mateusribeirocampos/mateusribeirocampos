@@ -26,9 +26,10 @@
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
 ![Mateus_Campos's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusribeirocampos&show_icons=true&theme=dark)
-<div>
+<div style="background-color: black;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusribeirocampos&layout=compact" alt="Top Languages" style="max-width: 100%;">
 </div>
+
 
 
 
