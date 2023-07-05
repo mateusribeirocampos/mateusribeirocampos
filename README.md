@@ -25,17 +25,7 @@
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
-![Mateus_Campos's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusribeirocampos&show_icons=true&theme=dark)<style>
-  .dark-container {
-    background-color: black;
-    padding: 10px;
-  }
-
-  .dark-badge {
-    filter: invert(1);
-  }
-</style>
-
+![Mateus_Campos's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusribeirocampos&show_icons=true&theme=dark)
 <div class="dark-container">
   <img src="https://img.shields.io/static/v1?label=languages&message=XX%25&color=blue&style=flat" alt="Language Stats" class="dark-badge" style="max-width: 100%;">
 </div>
