@@ -6,16 +6,15 @@
 </div>
 
 ## Programming languages | using | learning
-<div id="C">
+<div>
   <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>
-<div id="Cplusplus">
-  <a href="https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170">
+    <a href="https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170">
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
