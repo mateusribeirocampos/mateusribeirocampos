@@ -43,7 +43,7 @@
 <div style="background-color: dark; display: flex; align-items: flex-start;">
   <div style="flex: 1;">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mateusribeirocampos&show_icons=true&theme=dark" alt="Mateus_Ribeiro_Campos's GitHub stats" style="max-width: 85%;">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mateusribeirocampos&amp;Github_theme=Dark&amp;layout=compact" alt="Mateus_Ribeiro_Campos's Github top langs" style="width: 45%;">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mateusribeirocampos&amp;Github_theme=Dark&amp;layout=compact" alt="Mateus_Ribeiro_Campos's Github top langs" style="width: 41%;">
   </div>
 </div>
 
