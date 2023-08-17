@@ -40,4 +40,11 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+<div style="background-color: black; display: flex; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mateusribeirocampos&show_icons=true&theme=dark" alt="Mateus_Ribeiro_Campos's GitHub stats" style="max-width: 100%;">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mateusribeirocampos&amp;theme=github_dark&amp;layout=compact" alt="Mateus_Ribeiro_Campos's Github top langs" style="width: 42%;">
+  </div>
+</div>
+
 ![count](https://komarev.com/ghpvc/?username=mateusribeirocampos&color=grey)
