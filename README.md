@@ -1,42 +1,72 @@
 ### Hi there 👋
 <div id="badges">
-  <a href="https://www.linkedin.com/in/mateus-ribeiro-de-campos-6a135331">
+  <a href="https://www.linkedin.com/in/mateus-ribeiro-de-campos-6a135331" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
 ## Programming languages | using | learning
 <div>
-  <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170">
+  <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
   </a>
-    <a href="https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170">
+    <a href="https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170" target="_blank">
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
   </a>
-    <a href="https://dev.java/">
+    <a href="https://dev.java/" target="_blank">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge"/>
   </a>
-    <a href="https://www.python.org/">
+  <a href="https://kotlinlang.org/docs/home.html" target="_blank">
+    <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+  </a>
+</div>
+<div>
+  <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge"/>
   </a>
-    <a href="https://www.r-project.org/">
+    <a href="https://www.r-project.org/" target="_blank">
     <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R Badge"/>
   </a>
-   <a href="https://dev.mysql.com/doc/">
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql Badge"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
+</div>
+<div>
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS" target="_blank">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  </a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  </a>
+</div>
+<div>
+  <a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/" target="_blank">
+    <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/>
+  </a>
+</div>
+<div>
+   <a href="https://docs.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+  </a>
+</div>
+<div>
+  <a href="https://dev.mysql.com/doc/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql Badge"/>
   </a>
 </div>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
 ## IDEs
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+<div>
+  <a href="https://code.visualstudio.com/docs" target="_blank">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  </a>
+  <a href="https://docs.spyder-ide.org/current/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon"/>
+  </a>
+  <a href="https://www.jetbrains.com/help/pycharm/getting-started.html" target="_blank">
+    <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
+  </a>
+</div>
 
 ## Frameworks | Platforms | Libraries
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
