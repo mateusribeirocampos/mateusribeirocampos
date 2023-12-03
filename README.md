@@ -4,6 +4,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+<hr>
 
 ## Programming languages | using | learning
 <div>
@@ -40,11 +41,6 @@
   </a>
 </div>
 <div>
-  <a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/" target="_blank">
-    <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/>
-  </a>
-</div>
-<div>
    <a href="https://docs.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
   </a>
@@ -54,12 +50,24 @@
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql Badge"/>
   </a>
 </div>
+<hr>
 
 ## IDEs
 <div>
   <a href="https://code.visualstudio.com/docs" target="_blank">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   </a>
+</div>
+  <div>
+      <a href="https://netbeans.apache.org/front/main/">
+    <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
+  </a>
+  <a href="https://www.eclipse.org/documentation/">
+    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
+  </div>
+
+<div>
+    </a>
   <a href="https://docs.spyder-ide.org/current/index.html" target="_blank">
     <img src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon"/>
   </a>
@@ -67,13 +75,31 @@
     <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
   </a>
 </div>
+<hr>
 
 ## Frameworks | Platforms | Libraries
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<div>
+  <a href="https://doc.qt.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white"/>
+  </a>
+</div>
 
+<div>
+   <a href="https://legacy.reactjs.org/docs/getting-started.html" target="_blank">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  </a>
+  <a href="https://nodejs.org/en" target="_blank">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  </a>
+</div>
+
+<div>
+  <a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/" target="_blank">
+    <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/>
+  </a>
+</div>
+
+<hr>
 <div style="background-color: #000000; display: flex; align-items: stretch;">
   <div style="flex: 1;">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mateusribeirocampos&show_icons=true&theme=dark" alt="Mateus_Ribeiro_Campos's GitHub stats" style="max-width: 100%;">
