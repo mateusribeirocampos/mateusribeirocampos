@@ -21,7 +21,12 @@
 - [![Spring Boot Badge](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mateusribeirocampos&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mateusribeirocampos&layout=compact&theme=dark)
+<div style="background-color: #000000; display: flex; align-items: stretch;">
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mateusribeirocampos&show_icons=true&theme=dark" alt="Mateus_Ribeiro_Campos's GitHub stats" style="max-width: 100%;">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mateusribeirocampos&layout=compact&theme=dark" alt="Mateus_Ribeiro_Campos's Github top langs" style="width: 45%;">
+  </div>
+</div>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mateusribeirocampos&color=grey)
