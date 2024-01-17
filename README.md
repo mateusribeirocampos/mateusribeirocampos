@@ -23,8 +23,8 @@
 ## GitHub Stats
 <div style="background-color: #000000; color: #ffffff; display: flex; align-items: stretch;">
   <div style="flex: 1;">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mateusribeirocampos&show_icons=true&theme=dark" alt="Mateus_Ribeiro_Campos's GitHub stats" style="max-width: 95%;">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mateusribeirocampos&layout=compact&theme=dark" alt="Mateus_Ribeiro_Campos's Github top langs" style="width: 450px;">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mateusribeirocampos&show_icons=true&theme=dark" alt="Mateus_Ribeiro_Campos's GitHub stats" style="max-width: 250px;">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mateusribeirocampos&layout=compact&theme=dark" alt="Mateus_Ribeiro_Campos's Github top langs" style="width: 350px;">
   </div>
 </div>
 
