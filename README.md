@@ -27,6 +27,9 @@
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mateusribeirocampos&layout=compact&theme=dark" alt="Mateus_Ribeiro_Campos's Github top langs" style="width: 40%;">
   </div>
 </div>
+<div>
+  <a href="https://wakatime.com/@018d1435-2bbc-41f2-9c8e-18d6109531a4"><img src="https://wakatime.com/badge/user/018d1435-2bbc-41f2-9c8e-18d6109531a4.svg" alt="Total time coded since Jan 16 2024" /></a>
+</div>
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mateusribeirocampos&color=grey)
