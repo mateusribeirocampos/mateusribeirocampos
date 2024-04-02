@@ -32,6 +32,21 @@
 </div>
 <!--START_SECTION:waka-->
 
+```rust
+From: 16 January 2024 - To: 02 April 2024
+
+Total Time: 211 hrs 38 mins
+
+Kotlin           57 hrs 21 mins  >>>>>>>------------------   27.02 %
+C++              38 hrs 42 mins  >>>>>--------------------   18.24 %
+CSS              30 hrs 47 mins  >>>>---------------------   14.51 %
+PHP              22 hrs 35 mins  >>>----------------------   10.64 %
+HTML             19 hrs 12 mins  >>-----------------------   09.05 %
+XML              8 hrs 48 mins   >------------------------   04.15 %
+JavaScript       6 hrs 51 mins   >------------------------   03.23 %
+Markdown         2 hrs 53 mins   -------------------------   01.36 %
+```
+
 <!--END_SECTION:waka-->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mateusribeirocampos&color=grey)
