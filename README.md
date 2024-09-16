@@ -33,12 +33,12 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 16 January 2024 - To: 13 September 2024
+From: 16 January 2024 - To: 14 September 2024
 
-Total Time: 833 hrs 43 mins
+Total Time: 833 hrs 53 mins
 
-C++              295 hrs 3 mins  >>>>>>>>>----------------   34.04 %
-Java             114 hrs 25 mins >>>----------------------   13.20 %
+C++              295 hrs 3 mins  >>>>>>>>>----------------   34.03 %
+Java             114 hrs 35 mins >>>----------------------   13.22 %
 Kotlin           84 hrs 22 mins  >>-----------------------   09.73 %
 CSS              54 hrs 31 mins  >>-----------------------   06.29 %
 C                44 hrs 38 mins  >------------------------   05.15 %
