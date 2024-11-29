@@ -33,12 +33,12 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 16 January 2024 - To: 26 November 2024
+From: 16 January 2024 - To: 27 November 2024
 
 Total Time: 950 hrs 11 mins
 
-C++               297 hrs 10 mins >>>>>>-------------------   25.98 %
-Other             193 hrs 29 mins >>>>---------------------   16.92 %
+C++               297 hrs 10 mins >>>>>>-------------------   25.77 %
+Other             203 hrs         >>>>---------------------   17.60 %
 ```
 
 <!--END_SECTION:waka-->
