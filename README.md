@@ -32,13 +32,21 @@
 </div>
 <!--START_SECTION:waka-->
 
-```rust
-From: 16 January 2024 - To: 27 December 2024
+```txt
+From: 16 January 2024 - To: 28 December 2024
 
 Total Time: 1,036 hrs 57 mins
 
-C++               297 hrs 50 mins >>>>>>-------------------   23.16 %
-Other             248 hrs 56 mins >>>>>--------------------   19.36 %
+C++               297 hrs 50 mins █████▓░░░░░░░░░░░░░░░░░░░   23.16 %
+Other             249 hrs 11 mins █████░░░░░░░░░░░░░░░░░░░░   19.38 %
+Java              169 hrs 19 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 %
+JavaScript        120 hrs 53 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
+Kotlin            85 hrs 36 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
+CSS               61 hrs 21 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+C                 46 hrs 14 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+HTML              45 hrs 2 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+Lua               34 hrs 47 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+PHP               30 hrs 51 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
 ```
 
 <!--END_SECTION:waka-->
