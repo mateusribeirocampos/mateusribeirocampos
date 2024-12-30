@@ -33,13 +33,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 January 2024 - To: 29 December 2024
+From: 16 January 2024 - To: 30 December 2024
 
-Total Time: 1,036 hrs 57 mins
+Total Time: 1,036 hrs 58 mins
 
-C++               297 hrs 50 mins █████▓░░░░░░░░░░░░░░░░░░░   23.14 %
-Java              169 hrs 19 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.16 %
-JavaScript        120 hrs 53 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
+C++               297 hrs 50 mins █████▓░░░░░░░░░░░░░░░░░░░   23.13 %
+Java              169 hrs 19 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.15 %
+JavaScript        120 hrs 54 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
 Kotlin            85 hrs 36 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
 CSS               61 hrs 21 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
 C                 46 hrs 14 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
