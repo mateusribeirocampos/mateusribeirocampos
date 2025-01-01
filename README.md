@@ -32,11 +32,11 @@
   <a href="https://wakatime.com/@018d1435-2bbc-41f2-9c8e-18d6109531a4"><img src="https://wakatime.com/badge/user/018d1435-2bbc-41f2-9c8e-18d6109531a4.svg" alt="Total time coded since Jan 16 2024" /></a>
 </div>
   <a>
-    <img height="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDl4M29pdXFwbDZqenNpYzc3eGhhNWRhdTJ2ZTJsNDk0cjh5aHJ1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g3ZNwrm5x7StwjChYA/giphy.webp" width="140" alt="image">
-    <img height="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDl4M29pdXFwbDZqenNpYzc3eGhhNWRhdTJ2ZTJsNDk0cjh5aHJ1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g3ZNwrm5x7StwjChYA/giphy.webp" width="140" alt="image">
+    <img height="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDl4M29pdXFwbDZqenNpYzc3eGhhNWRhdTJ2ZTJsNDk0cjh5aHJ1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g3ZNwrm5x7StwjChYA/giphy.webp" width="150" alt="image">
+    <img height="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDl4M29pdXFwbDZqenNpYzc3eGhhNWRhdTJ2ZTJsNDk0cjh5aHJ1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g3ZNwrm5x7StwjChYA/giphy.webp" width="150" alt="image">
     <img height="100" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHdxbXZleGtiMGI0YjNkdW9wcWh2dDJwZGhwdWp5eTBtbXo5ZHNoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OGsslOVju5JNHXV2DC/giphy.gif" width="180" alt="image">
-    <img height="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDl4M29pdXFwbDZqenNpYzc3eGhhNWRhdTJ2ZTJsNDk0cjh5aHJ1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g3ZNwrm5x7StwjChYA/giphy.webp" width="140" alt="image">
-    <img height="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDl4M29pdXFwbDZqenNpYzc3eGhhNWRhdTJ2ZTJsNDk0cjh5aHJ1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g3ZNwrm5x7StwjChYA/giphy.webp" width="140" alt="image">
+    <img height="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDl4M29pdXFwbDZqenNpYzc3eGhhNWRhdTJ2ZTJsNDk0cjh5aHJ1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g3ZNwrm5x7StwjChYA/giphy.webp" width="150" alt="image">
+    <img height="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDl4M29pdXFwbDZqenNpYzc3eGhhNWRhdTJ2ZTJsNDk0cjh5aHJ1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g3ZNwrm5x7StwjChYA/giphy.webp" width="150" alt="image">
   </a>
 </div>
 <!--START_SECTION:waka-->
