@@ -32,7 +32,7 @@
   <a href="https://wakatime.com/@018d1435-2bbc-41f2-9c8e-18d6109531a4"><img src="https://wakatime.com/badge/user/018d1435-2bbc-41f2-9c8e-18d6109531a4.svg" alt="Total time coded since Jan 16 2024" /></a>
 </div>
   <a>
-    <img height="50" src="https://64.media.tumblr.com/tumblr_lwa95v31MU1qgwsj9o1_250.gif" width="180" alt="image">
+    <img height="50" src="https://64.media.tumblr.com/tumblr_lwa95v31MU1qgwsj9o1_250.gif" width="100" alt="image">
   </a>
 </div>
 <!--START_SECTION:waka-->
