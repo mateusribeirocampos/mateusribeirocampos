@@ -29,7 +29,7 @@
 </div>
 <div>
   <a>
-    <img height="220" src="https://64.media.tumblr.com/tumblr_lwa95v31MU1qgwsj9o1_250.gif" width="250" alt="image">
+    <img height="220" src="https://64.media.tumblr.com/tumblr_lwa95v31MU1qgwsj9o1_250.gif" width="180" alt="image">
   </a>
 </div>
 
