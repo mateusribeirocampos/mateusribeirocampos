@@ -38,19 +38,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 January 2024 - To: 04 January 2025
+From: 16 January 2024 - To: 05 January 2025
 
-Total Time: 1,038 hrs 8 mins
+Total Time: 1,038 hrs 13 mins
 
 C++               297 hrs 51 mins █████▓░░░░░░░░░░░░░░░░░░░   23.00 %
 Java              169 hrs 21 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.08 %
-JavaScript        120 hrs 57 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
+JavaScript        121 hrs         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
 Kotlin            85 hrs 36 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
-CSS               61 hrs 22 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+CSS               61 hrs 23 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
 C                 46 hrs 14 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
 HTML              45 hrs 22 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
 Lua               34 hrs 47 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
-PHP               30 hrs 53 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+PHP               30 hrs 53 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
 ```
 
 <!--END_SECTION:waka-->
