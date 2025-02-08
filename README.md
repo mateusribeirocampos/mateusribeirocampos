@@ -1,32 +1,46 @@
-# Mateus R Campos
+# Mateus R Campos [![Visits Badge](https://komarev.com/ghpvc/?username=mateusribeirocampos&style=flat-square&color=blueviolet)](https://github.com/mateusribeirocampos)
 
-## Badges
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-ribeiro-de-campos-6a135331)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Profissional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-ribeiro-de-campos-6a135331)
 
-## Programming Languages
-- [![C Badge](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170)
-- [![C++ Badge](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170)
-- [![Java Badge](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://dev.java/)
-- [![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/docs/home.html)
+## 🚀 Tech Stack
 
-## IDEs
-- [![VS Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/docs)
-- [![NetBeans IDE Badge](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)](https://netbeans.apache.org/front/main/)
-- [![Eclipse Badge](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org/documentation/)
+### **Linguagens de Programação**
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
-## Frameworks | Platforms | Libraries
-- [![Qt Badge](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)](https://doc.qt.io/)
-- [![React Badge](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
-- [![Node.js Badge](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en)
-- [![Spring Boot Badge](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
+### **Ferramentas de Desenvolvimento**
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![NetBeans](https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
-## GitHub Stats
-<div style="background-color: #000000; color: #ffffff; display: inline-block; align-items: stretch;">
-  <div style="flex: 1;">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mateusribeirocampos&show_icons=true&theme=dark" alt="Mateus_Ribeiro_Campos's GitHub stats" style="max-width: 70%;">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mateusribeirocampos&layout=compact&theme=dark" alt="Mateus_Ribeiro_Campos's Github top langs" style="width: 40%;">
-  </div>
-</div>
+### **Frameworks & Bibliotecas**
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+## 📊 GitHub Analytics
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mateusribeirocampos&show_icons=true&theme=dark&include_all_commits=true" alt="Estatísticas GitHub">
+    </td>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mateusribeirocampos&layout=compact&theme=dark&hide=html,css" alt="Linguagens Mais Usadas">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://streak-stats.demolab.com?user=mateusribeirocampos&theme=dark&date_format=j%20M%5B%20Y%5D" alt="Streak Stats">
+    </td>
+  </tr>
+</table>
+
+## 🏆 Conquistas
+[![trophy](https://github-profile-trophy.vercel.app/?username=mateusribeirocampos&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 <div>
 <div>
   <a href="https://wakatime.com/@018d1435-2bbc-41f2-9c8e-18d6109531a4"><img src="https://wakatime.com/badge/user/018d1435-2bbc-41f2-9c8e-18d6109531a4.svg" alt="Total time coded since Jan 16 2024" /></a>
