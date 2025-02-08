@@ -1,4 +1,4 @@
-# Mateus R Campos [![Visits Badge](https://komarev.com/ghpvc/?username=mateusribeirocampos&style=flat-square&color=blueviolet)](https://github.com/mateusribeirocampos)
+# Mateus R Campos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Profissional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-ribeiro-de-campos-6a135331)
 
@@ -69,4 +69,4 @@ PHP               30 hrs 53 mins  ▓░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-![Profile Views](https://komarev.com/ghpvc/?username=mateusribeirocampos&color=grey)
+[![Visits Badge](https://komarev.com/ghpvc/?username=mateusribeirocampos&style=flat-square&color=blue)](https://github.com/mateusribeirocampos)
