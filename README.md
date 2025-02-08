@@ -1,21 +1,28 @@
 # Mateus R Campos
 
+👋 Hi, I'm Mateus!
+
+I'm a Computer Science student transitioning from Entomology to IT. My goal is to merge my experience in biological control with technology, exploring areas like data analysis and software development. Currently, I'm learning React, React Native, and backend development while working on personal projects.
+
+Let's connect! 🚀
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Profissional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-ribeiro-de-campos-6a135331)
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
-### **Linguagens de Programação**
+**Languages:** 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### **Ferramentas de Desenvolvimento**
+**IDEs:** 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-3b883b?style=for-the-badge&logo=vim&logoColor=white)
 
-### **Frameworks & Bibliotecas**
+**Frameworks & Tools:**
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
