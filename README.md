@@ -82,6 +82,7 @@ Let's connect! 🚀
     <img height="100" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJxb3Jtem1neGU3dm8wN3E5YzFzeG9hbHVjOWViNDZ6YWZwMGNveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rwiTOXmYsb6uD3BeM6/giphy.gif" width="1050" alt="image">
   </a>
 </div>
+
 <!--START_SECTION:waka-->
 
 ```txt
