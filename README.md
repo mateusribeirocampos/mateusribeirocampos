@@ -67,7 +67,7 @@ Let's connect! 🚀
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://streak-stats.demolab.com?user=mateusribeirocampos&theme=dark&date_format=j%20M%5B%20Y%5D" alt="Streak Stats">
+      <img src="https://streak-stats.demolab.com?user=mateusribeirocampos&theme=dark&border_radius=5" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
