@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Mateus!
 
-I'm a Computer Science student transitioning from Entomology to IT. My goal is to merge my experience in biological control with technology, exploring areas like data analysis and software development. Currently, I'm learning React, React Native, and backend development while working on personal projects.
+I am a Computer Science student with a rich background in Agronomy and Entomology, specializing in ecotoxicology and biological control. I have experiencie science with technology, I am transitioning into IT with a focus on data analysis and software development. Currently, I am expanding my skill set by diving into React, React Native, and backend development, and applying this knowledge to innovative personal projects that merge scientific insight with modern technology.
 
 Let's connect! 🚀
 
