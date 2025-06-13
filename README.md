@@ -2,14 +2,36 @@
 
 👋 Hi, I'm Mateus!
 
-I am a Computer Science student with a rich background in Agronomy and Entomology, specializing in ecotoxicology and biological control. I have experiencie science with technology, I am transitioning into IT with a focus on data analysis and software development. Currently, I am expanding my skill set by diving into React, React Native, and backend development, and applying this knowledge to innovative personal projects that merge scientific insight with modern technology.
+I am a Computer Science student with a rich background in Agronomy and Entomology, specializing in ecotoxicology and biological control. I have experience in science with technology, I am transitioning into IT with a focus on data analysis and software development. Currently, I am expanding my skill set by diving into React, React Native, and backend development, and applying this knowledge to innovative personal projects that merge scientific insight with modern technology.
 
 Let's connect! 🚀
 
+[![Repo](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](https://portfolio-mateusribeirocampos.vercel.app/en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Profissional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-ribeiro-de-campos-6a135331)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@_mateuscampos/)
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/@MateusR1Campos)
 
+---
+
+## 💼 Featured Projects
+
+[![Repo](https://img.shields.io/badge/Portfolio-Next.js-blue?style=for-the-badge)](https://github.com/mateusribeirocampos/portfolio)
+
+- _My personal portfolio built with Next.js and TailwindCSS._
+
+[![Repo](https://img.shields.io/badge/Estrutura_de_Dados-C++-blue?style=for-the-badge)](https://github.com/mateusribeirocampos/Estrutura_de_Dados)
+
+- _Data structure implementations in C++._
+
+[![Repo](https://img.shields.io/badge/Dragenda-JavaScript-blue?style=for-the-badge)](https://github.com/mateusribeirocampos/dragenda)
+
+- _Online medical appointment management system built with Vite, React, Node.js and Expo._
+
+[![Repo](https://img.shields.io/badge/Agro2Code%20Blog-Astro-blue?style=for-the-badge)](https://github.com/mateusribeirocampos/agro2code-blog)
+
+- _Blog built with Astro focused on agronomy and technology._
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -54,6 +76,8 @@ Let's connect! 🚀
 ![MySQL](https://img.shields.io/badge/MySQL-3e6e93?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-2b5e7d?style=for-the-badge&logo=sqlite&logoColor=white)
 
+---
+
 ## 📊 GitHub Analytics
 
 <table align="center">
@@ -72,7 +96,10 @@ Let's connect! 🚀
   </tr>
 </table>
 
+---
+
 ## 🏆 Conquistas
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=mateusribeirocampos&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 <div>
 <div>
@@ -100,6 +127,8 @@ Markdown             58 hrs 25 mins  ▓░░░░░░░░░░░░░�
 HTML                 48 hrs 33 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
 C                    46 hrs 14 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
 ```
+
+### Total coding time tracked since Jan 2024
 
 <!--END_SECTION:waka-->
 
