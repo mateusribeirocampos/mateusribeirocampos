@@ -15,17 +15,29 @@ Let's connect! 🚀
 
 ## 💼 Featured Projects
 
-[![Repo](https://img.shields.io/badge/Portfolio-Next.js-blue?style=for-the-badge)](https://github.com/mateusribeirocampos/portfolio)
+[![Repo](https://img.shields.io/badge/Santa_Rita_Church-TypeScript-blue?style=for-the-badge)](https://github.com/mateusribeirocampos/santarita)
 
-- _My personal portfolio built with Next.js and TailwindCSS._
+- _Full-stack church management system with React, TypeScript, Node.js, and PostgreSQL. Features event management, donation system, and role-based access._
 
-[![Repo](https://img.shields.io/badge/Estrutura_de_Dados-C++-blue?style=for-the-badge)](https://github.com/mateusribeirocampos/Estrutura_de_Dados)
+[![Repo](https://img.shields.io/badge/SYSMP-TypeScript-blue?style=for-the-badge)](https://github.com/mateusribeirocampos/sysmp)
 
-- _Data structure implementations in C++._
+- _Modern document management system for small teams with workflow tracking and metadata management._
+
+[![Repo](https://img.shields.io/badge/Machine_Learning_Studies-Python-blue?style=for-the-badge)](https://github.com/mateusribeirocampos/diollm)
+
+- _Data science projects including facial recognition, transfer learning, and image recommendation systems using Python and scikit-learn._
 
 [![Repo](https://img.shields.io/badge/Dragenda-JavaScript-blue?style=for-the-badge)](https://github.com/mateusribeirocampos/dragenda)
 
 - _Online medical appointment management system built with Vite, React, Node.js and Expo._
+
+[![Repo](https://img.shields.io/badge/Spring_Boot_API-Java-blue?style=for-the-badge)](https://github.com/mateusribeirocampos/spring-boot-crud-api-template)
+
+- _Professional REST API template with clean architecture using Spring Boot 3.5.3 and Java 21._
+
+[![Repo](https://img.shields.io/badge/Qt_Calculator-C++-blue?style=for-the-badge)](https://github.com/mateusribeirocampos/Calcd_Qt)
+
+- _Cross-platform desktop calculator application built with C++ and Qt framework._
 
 [![Repo](https://img.shields.io/badge/Agro2Code%20Blog-Astro-blue?style=for-the-badge)](https://github.com/mateusribeirocampos/agro2code-blog)
 
@@ -43,6 +55,11 @@ Let's connect! 🚀
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23025E8C.svg?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 
 ### **Markup and Style Languages:**
 
@@ -58,23 +75,55 @@ Let's connect! 🚀
 ![Vim](https://img.shields.io/badge/Vim-3b883b?style=for-the-badge&logo=vim&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-3b883b?logo=neovim&logoColor=white&style=for-the-badge)
 
-### **Frameworks & Tools:**
+### **Frameworks & Libraries:**
 
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
+### **Data Science & ML:**
+
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+### **Cloud & DevOps:**
+
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-1d63ed?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### **Development Tools:**
+
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
+![npm](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
-### **Databases**
+### **Databases:**
 
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-3e6e93?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-2b5e7d?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
