@@ -162,7 +162,7 @@ Let's connect! 🚀
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 January 2024 - To: 06 July 2025
+From: 16 January 2024 - To: 07 July 2025
 
 Total Time: 1,672 hrs 54 mins
 
