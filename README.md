@@ -2,7 +2,13 @@
 
 👋 Hi, I'm Mateus!
 
-I am a Computer Science student with a rich background in Agronomy and Entomology, specializing in ecotoxicology and biological control. I have experience in science with technology, I am transitioning into IT with a focus on data analysis and software development. Currently, I am expanding my skill set by diving into React, React Native, and backend development, and applying this knowledge to innovative personal projects that merge scientific insight with modern technology.
+I am a Full Stack Developer specializing in **Spring Boot Java** and modern web technologies, with a unique background combining **Computer Science** and **PhD-level research in Entomology**. With 1,760+ hours of documented development experience, I build production-ready applications using **Java 21, Spring Boot 3.5.3, React, TypeScript, and PostgreSQL**.
+
+Currently focused on **backend development with Spring Boot**, creating scalable REST APIs with clean architecture, JPA/Hibernate, and microservices patterns. I also develop full-stack solutions combining React/Next.js frontends with Node.js/Spring Boot backends, all deployed to production environments.
+
+My unique scientific background brings analytical precision and problem-solving skills to software development, with a strong foundation in research methodology.
+
+**Core Expertise:** Spring Boot • Java • React • TypeScript • PostgreSQL • Node.js • Docker • CI/CD
 
 Let's connect! 🚀
 
@@ -15,115 +21,49 @@ Let's connect! 🚀
 
 ## 💼 Featured Projects
 
+[![Repo](https://img.shields.io/badge/Spring_Boot_E--commerce_API-Java-orange?style=for-the-badge)](https://github.com/mateusribeirocampos/spring-boot-crud-api-template)
+
+- _Production-ready REST API with Spring Boot 3.5.3 and Java 21. Features complete e-commerce domain model, JPA/Hibernate relationships, PostgreSQL integration, and live deployment on Render._
+
 [![Repo](https://img.shields.io/badge/Santa_Rita_Church-TypeScript-blue?style=for-the-badge)](https://github.com/mateusribeirocampos/santarita)
 
-- _Full-stack church management system with React, TypeScript, Node.js, and PostgreSQL. Features event management, donation system, and role-based access._
+- _Full-stack church management system with React, TypeScript, Node.js, and PostgreSQL. Implements event management, donation tracking, user authentication, and role-based access control._
 
 [![Repo](https://img.shields.io/badge/SYSMP-TypeScript-blue?style=for-the-badge)](https://github.com/mateusribeirocampos/sysmp)
 
-- _Modern document management system for small teams with workflow tracking and metadata management._
-
-[![Repo](https://img.shields.io/badge/Machine_Learning_Studies-Python-blue?style=for-the-badge)](https://github.com/mateusribeirocampos/diollm)
-
-- _Data science projects including facial recognition, transfer learning, and image recommendation systems using Python and scikit-learn._
+- _Document management system with React, TypeScript, Node.js, and Supabase. Features real-time updates with Socket.io, workflow tracking, metadata management, and professional logging._
 
 [![Repo](https://img.shields.io/badge/Dragenda-JavaScript-blue?style=for-the-badge)](https://github.com/mateusribeirocampos/dragenda)
 
-- _Online medical appointment management system built with Vite, React, Node.js and Expo._
+- _Multi-platform medical appointment system with React web app, React Native mobile app, and Node.js API. Deployed across Vercel and Render with SQLite database._
 
-[![Repo](https://img.shields.io/badge/Spring_Boot_API-Java-blue?style=for-the-badge)](https://github.com/mateusribeirocampos/spring-boot-crud-api-template)
+[![Repo](https://img.shields.io/badge/Machine_Learning_Studies-Python-green?style=for-the-badge)](https://github.com/mateusribeirocampos/diollm)
 
-- _Professional REST API template with clean architecture using Spring Boot 3.5.3 and Java 21._
+- _Data science projects exploring facial recognition, transfer learning, and image recommendation systems using Python, scikit-learn, OpenCV, and Jupyter notebooks._
 
-[![Repo](https://img.shields.io/badge/Qt_Calculator-C++-blue?style=for-the-badge)](https://github.com/mateusribeirocampos/Calcd_Qt)
+[![Repo](https://img.shields.io/badge/Qt_Calculator-C++-purple?style=for-the-badge)](https://github.com/mateusribeirocampos/Calcd_Qt)
 
-- _Cross-platform desktop calculator application built with C++ and Qt framework._
-
-[![Repo](https://img.shields.io/badge/Agro2Code%20Blog-Astro-blue?style=for-the-badge)](https://github.com/mateusribeirocampos/agro2code-blog)
-
-- _Blog built with Astro focused on agronomy and technology._
+- _Cross-platform desktop calculator with modern UI built using C++ and Qt framework. Demonstrates proficiency in desktop application development and object-oriented design patterns._
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Languages:**
+### **Backend Development**
+- **Java** • Spring Boot 3.5+ • Spring Data JPA • Maven
+- **Node.js** • Express.js • JWT Authentication
+- **PostgreSQL** • MySQL • SQLite
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%23025E8C.svg?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+### **Frontend Development** 
+- **React** • TypeScript • Next.js • Tailwind CSS
+- **React Native** • Expo
 
-### **Markup and Style Languages:**
+### **DevOps & Tools**
+- **Docker** • GitHub Actions • Vercel • Render
+- **Git** • Postman • VS Code
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
-
-### **IDEs:**
-
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-22a6f1?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-327ac4?style=for-the-badge&logo=apache%20netbeans%20ide&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-071643?style=for-the-badge&logo=eclipse&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-3b883b?style=for-the-badge&logo=vim&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-3b883b?logo=neovim&logoColor=white&style=for-the-badge)
-
-### **Frameworks & Libraries:**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-### **Data Science & ML:**
-
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
-### **Cloud & DevOps:**
-
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-1d63ed?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### **Development Tools:**
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
-![npm](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-
-### **Databases:**
-
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-3e6e93?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-2b5e7d?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+### **Data Science**
+- **Python** • Pandas • NumPy • scikit-learn
 
 ---
 
