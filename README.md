@@ -102,9 +102,9 @@ Let's connect! 🚀
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 January 2024 - To: 31 July 2025
+From: 16 January 2024 - To: 01 August 2025
 
-Total Time: 1,779 hrs 10 mins
+Total Time: 1,779 hrs 14 mins
 
 Java                 331 hrs 36 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.51 %
 C++                  300 hrs 10 mins ███░░░░░░░░░░░░░░░░░░░░░░   12.23 %
