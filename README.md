@@ -102,7 +102,7 @@ Let's connect! 🚀
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 January 2024 - To: 31 August 2025
+From: 16 January 2024 - To: 01 September 2025
 
 Total Time: 1,832 hrs 52 mins
 
