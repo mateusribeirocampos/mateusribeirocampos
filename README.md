@@ -2,13 +2,11 @@
 
 👋 Hi, I'm Mateus!
 
-I am a Full Stack Developer specializing in **Spring Boot Java** and modern web technologies, with a unique background combining **Computer Science** and **PhD-level research in Entomology**. With 1,760+ hours of documented development experience, I build production-ready applications using **Java 21, Spring Boot 3.5.3, React, TypeScript, and PostgreSQL**.
+I am a **Backend Developer (Java 21, Spring Boot)** and **RESTful API Architect** specializing in scalable and robust solutions, with expertise in **complex statistical modeling and data analysis (Python/R, PostgreSQL)**. With 1,960+ hours of documented development experience, I build production-ready applications combining technical proficiency with over 10 years of methodological rigor, **international project leadership (INRAE)**, and high-stakes team and budget management.
 
-Currently focused on **backend development with Spring Boot**, creating scalable REST APIs with clean architecture, JPA/Hibernate, and microservices patterns. I also develop full-stack solutions combining React/Next.js frontends with Node.js/Spring Boot backends, all deployed to production environments.
+Currently focused on **backend development with Spring Boot 3.5.3**, creating scalable REST APIs with clean architecture, JPA/Hibernate, and microservices patterns. I also develop full-stack solutions combining React/Next.js frontends with Node.js/Spring Boot backends, all deployed to production environments.
 
-My unique scientific background brings analytical precision and problem-solving skills to software development, with a strong foundation in research methodology.
-
-**Core Expertise:** Spring Boot • Java • React • TypeScript • PostgreSQL • Node.js • Docker • CI/CD
+**Core Expertise:** Spring Boot • Java • Python • R • React • TypeScript • PostgreSQL • Node.js • Docker • CI/CD
 
 Let's connect! 🚀
 
@@ -37,6 +35,10 @@ Let's connect! 🚀
 
 - _Multi-platform medical appointment system with React web app, React Native mobile app, and Node.js API. Deployed across Vercel and Render with SQLite database._
 
+[![Repo](https://img.shields.io/badge/Scientific_Data_Analysis-Python/R-green?style=for-the-badge)](https://github.com/mateusribeirocampos/diollm)
+
+- _Automated complete data analysis pipeline for complex environmental Big Data using Python/R. Created predictive statistical models and achieved 40% reduction in dataset processing time, demonstrating measurable efficiency improvements._
+
 [![Repo](https://img.shields.io/badge/Machine_Learning_Studies-Python-green?style=for-the-badge)](https://github.com/mateusribeirocampos/diollm)
 
 - _Data science projects exploring facial recognition, transfer learning, and image recommendation systems using Python, scikit-learn, OpenCV, and Jupyter notebooks._
@@ -62,8 +64,9 @@ Let's connect! 🚀
 - **Docker** • GitHub Actions • Vercel • Render
 - **Git** • Postman • VS Code
 
-### **Data Science**
-- **Python** • Pandas • NumPy • scikit-learn
+### **Data Science & Analytics**
+- **Python** • Pandas • NumPy • scikit-learn • Jupyter
+- **R** • ggplot2 • Statistical Modeling
 
 ---
 
