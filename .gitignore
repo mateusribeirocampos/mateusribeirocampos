@@ -1,0 +1,146 @@
+# GitHub Profile Repository - .gitignore
+
+# ===========================================
+# Arquivos de Configuração Local
+# ===========================================
+
+# Backup do workflow (apenas local)
+.github/workflows/*.backup
+.github/workflows/*-backup.yml
+
+# Documentação de setup (apenas local)
+.github/WAKA_SETUP.md
+.github/SETUP*.md
+
+# ===========================================
+# Sistema Operacional
+# ===========================================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Linux
+*~
+.directory
+.Trash-*
+.nfs*
+
+# ===========================================
+# IDEs e Editores
+# ===========================================
+
+# VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# JetBrains IDEs
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Vim
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+Session.vim
+Sessionx.vim
+.netrwhist
+*~
+
+# ===========================================
+# Logs e Temporários
+# ===========================================
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+*.orig
+*.rej
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# ===========================================
+# Arquivos de Ambiente e Secrets
+# ===========================================
+
+# Environment files
+.env
+.env.local
+.env.*.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Secrets (embora não devam estar aqui)
+secrets/
+*.key
+*.pem
+*.cert
+*.crt
+
+# ===========================================
+# Outros
+# ===========================================
+
+# Arquivos de teste local
+test-local/
+scratch/
+drafts/
+
+# Cache
+.cache/
+*.cache
+
+# Notes pessoais
+NOTES.md
+TODO.md
+PERSONAL*.md
+
+.claude
