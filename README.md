@@ -129,23 +129,36 @@ Let's connect! 🚀
 ## 📊 Coding Statistics
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C825%20hrs%2017%20mins-blue)
 
-```txt
-From: 16 January 2024 - To: 29 October 2025
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
-Total Time: 2,049 hrs 8 mins
+**🐱 My GitHub Data** 
 
-Java                                       494 hrs         ████▒░░░░░░░░░░░░░░░░░░░░   17.51 %
-C++                                        300 hrs 10 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 %
-JavaScript                                 274 hrs 11 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
-TypeScript                                 196 hrs 43 mins █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
-Kotlin                                     100 hrs 42 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
-Markdown                                   90 hrs 59 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-CSS                                        70 hrs 48 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
-JSON                                       51 hrs 16 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-HTML                                       50 hrs 4 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+> 📦 228.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,139 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 26 Public Repositories 
+ > 
+> 🔑 28 Private Repositories 
+ > 
+**I Mostly Code in Java** 
+
+```text
+Java                     12 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+TypeScript               11 repos            ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
+JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 ```
 
+
+
+
+ Last Updated on 31/10/2025 18:08:28 UTC
 <!--END_SECTION:waka-->
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=mateusribeirocampos&style=flat-square&color=blue)](https://github.com/mateusribeirocampos)
