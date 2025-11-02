@@ -14,7 +14,7 @@ jobs:
     # Prevent infinite loop - don't run on commits from the bot itself
     if: github.event_name != 'push' || github.event.head_commit.author.name != 'github-actions[bot]'
     steps:
-      - uses: anmol098/waka-readme-stats@v5.1.1
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
