@@ -264,9 +264,6 @@ Mac                      2 hrs 7 mins        ███░░░░░░░░�
 ```
 
 **I Mostly Code in Java** 
-=======
-**I Mostly Code in Java**
->>>>>>> e23d1e9 (bios updated)
 
 ```text
 Java                     12 repos            ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
@@ -276,14 +273,10 @@ Python                   4 repos             ██░░░░░░░░░�
 Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 ```
 
-<<<<<<< HEAD
-
 
 
  Last Updated on 01/12/2025 01:56:41 UTC
-=======
- Last Updated on 02/11/2025 14:27:19 UTC
->>>>>>> e23d1e9 (bios updated)
+
 <!--END_SECTION:waka-->
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=mateusribeirocampos&style=flat-square&color=blue)](https://github.com/mateusribeirocampos)
