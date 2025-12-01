@@ -1,96 +1,175 @@
-# Mateus R Campos
+# Hi there, I'm Mateus Ribeiro de Campos 👋
 
-👋 Hi, I'm Mateus!
+<div align="center">
 
-I am a **Backend Developer (Java 21, Spring Boot)** and **RESTful API Architect** specializing in scalable and robust solutions, with expertise in **complex statistical modeling and data analysis (Python/R, PostgreSQL)**. With 2,000+ hours of documented development experience, I build production-ready applications combining technical proficiency with over 10 years of methodological rigor, **international project leadership (INRAE)**, and high-stakes team and budget management.
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-mateusribeirocampos.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-ribeiro-de-campos-6a135331/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com.br/citations?user=4GdCxjMAAAAJ&hl=en)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-9317-3215)
 
-Currently focused on **backend development with Spring Boot 3.5.3**, creating scalable REST APIs with clean architecture, JPA/Hibernate, and microservices patterns. I also develop full-stack solutions combining React/Next.js frontends with Node.js/Spring Boot backends, all deployed to production environments.
+</div>
 
-**Core Expertise:** Spring Boot • Java • Python • R • React • TypeScript • PostgreSQL • Node.js • Docker • CI/CD
+## 🚀 About Me
 
-Let's connect! 🚀
+**Backend Java Developer** | **Full-Stack Developer** | **Ex-Research Scientist (PhD)**
 
-[![Repo](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](https://portfolio-mateusribeirocampos.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Profissional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-ribeiro-de-campos-6a135331)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@_mateuscampos/)
-[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/@MateusR1Campos)
+From scientific research to software development — I bring **analytical rigor** and **systematic thinking** to build **robust, scalable solutions**.
 
----
-
-## 💼 Featured Projects
-
-### **Backend & API Development**
-
-[![Repo](https://img.shields.io/badge/Spring_Boot_Professional-Java-orange?style=for-the-badge)](https://github.com/mateusribeirocampos/spring-boot-profissional)
-
-- _Advanced Spring Boot project with professional-grade architecture, demonstrating best practices in enterprise Java development. Latest updates Oct 2025._
-
-[![Repo](https://img.shields.io/badge/Spring_Boot_2025-Java-orange?style=for-the-badge)](https://github.com/mateusribeirocampos/spring-boot-java2025)
-
-- _Modern Spring Boot ecosystem with Swagger documentation, Docker containerization, Kubernetes orchestration, JWT authentication, JUnit 5 testing, and ReactJS frontend integration._
-
-[![Repo](https://img.shields.io/badge/Spring_Boot_E--commerce_API-Java-orange?style=for-the-badge)](https://github.com/mateusribeirocampos/spring-boot-crud-api-template)
-
-- _Production-ready REST API with Spring Boot 3.5.3 and Java 21. Features complete e-commerce domain model, JPA/Hibernate relationships, PostgreSQL integration, and live deployment on Render._
-
-### **Full-Stack Applications**
-
-[![Repo](https://img.shields.io/badge/Santa_Rita_Church-TypeScript-blue?style=for-the-badge)](https://github.com/mateusribeirocampos/santarita)
-
-- _Full-stack church management system with React, TypeScript, Node.js, and PostgreSQL. Implements event management, donation tracking, user authentication, and role-based access control._
-
-[![Repo](https://img.shields.io/badge/SYSMP-TypeScript-blue?style=for-the-badge)](https://github.com/mateusribeirocampos/sysmp)
-
-- _Document management system with React, TypeScript, Node.js, and Supabase. Features real-time updates with Socket.io, workflow tracking, metadata management, and professional logging._
-
-[![Repo](https://img.shields.io/badge/Dragenda-JavaScript-blue?style=for-the-badge)](https://github.com/mateusribeirocampos/dragenda)
-
-- _Multi-platform medical appointment system with React web app, React Native mobile app, and Node.js API. Deployed across Vercel and Render with SQLite database._
-
-### **Tools & Utilities**
-
-[![Repo](https://img.shields.io/badge/NPM_MCP_Server-TypeScript-blue?style=for-the-badge)](https://github.com/mateusribeirocampos/npm-mcp-server)
-
-- _TypeScript-based MCP (Model Context Protocol) server for NPM integration. Demonstrates expertise in protocol implementation and tooling development._
-
-[![Repo](https://img.shields.io/badge/Python_YouTube_Downloader-Python-green?style=for-the-badge)](https://github.com/mateusribeirocampos/pythonYoutDownloader)
-
-- _Efficient YouTube video downloader utility built with Python and yt-dlp, featuring clean CLI interface and robust error handling._
-
-### **Data Science & Desktop**
-
-[![Repo](https://img.shields.io/badge/Data_Science_&_ML_Studies-Python/R-green?style=for-the-badge)](https://github.com/mateusribeirocampos/diollm)
-
-- _Comprehensive data science and machine learning projects including automated data analysis pipeline for environmental Big Data, facial recognition, transfer learning, and image recommendation systems. Built with Python/R, scikit-learn, OpenCV, and Jupyter notebooks, achieving 40% reduction in dataset processing time._
-
-[![Repo](https://img.shields.io/badge/Qt_Calculator-C++-purple?style=for-the-badge)](https://github.com/mateusribeirocampos/Calcd_Qt)
-
-- _Cross-platform desktop calculator with modern UI built using C++ and Qt framework. Demonstrates proficiency in desktop application development and object-oriented design patterns._
+- 🔭 **Currently working on:** Spring Boot enterprise applications and RESTful API architecture
+- 🌱 **Currently learning:** Advanced Spring Security, Kubernetes, AWS Cloud
+- 💼 **Seeking:** Junior Backend Java Developer or Full-Stack Developer positions (remote/hybrid)
+- 📊 **Background:** PhD in Entomology + Computer Science (in progress) — **2,000+ documented dev hours**
+- 🌍 **International experience:** 2 years at INRAE (France) leading multidisciplinary projects
+- 💡 **Superpower:** Transforming complex problems into clean, maintainable code
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Backend Development**
+### Backend & APIs
 
-- **Java** • Spring Boot 3.5+ • Spring Data JPA • Maven
-- **Node.js** • Express.js • JWT Authentication
-- **PostgreSQL** • MySQL • SQLite
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### **Frontend Development**
+### Frontend & Mobile
 
-- **React** • TypeScript • Next.js • Tailwind CSS
-- **React Native** • Expo
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### **DevOps & Tools**
+### Databases
 
-- **Docker** • GitHub Actions • Vercel • Render
-- **Git** • Postman • VS Code
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### **Data Science & Analytics**
+### Data Science & Analytics
 
-- **Python** • Pandas • NumPy • scikit-learn • Jupyter
-- **R** • ggplot2 • Statistical Modeling
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🏪 Spring Boot E-commerce API Template
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/mateusribeirocampos/spring-boot-crud-api-template)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)](https://github.com/mateusribeirocampos/spring-boot-crud-api-template)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/mateusribeirocampos/spring-boot-crud-api-template)
+[![Live](https://img.shields.io/badge/Live-success?style=flat-square&logo=vercel&logoColor=white)](https://spring-boot-ecommerce-api.onrender.com/)
+
+**Production-ready REST API** with enterprise-grade architecture
+
+- ✅ **4-layer architecture** (Entity, Repository, Service, Controller)
+- ✅ **Complex JPA relationships** (OneToMany, ManyToMany, etc.)
+- ✅ **Environment profiles** (H2 dev / PostgreSQL prod)
+- ✅ **Automated seeding** & exception handling
+- ✅ **Deployed on Render** with CI/CD
+
+[🔗 View Repository](https://github.com/mateusribeirocampos/spring-boot-crud-api-template) | [🌐 Live Demo](https://spring-boot-ecommerce-api.onrender.com/)
+
+---
+
+### 📋 SYSMP - Real-Time Deadline Management System
+
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/mateusribeirocampos/sysmp)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://github.com/mateusribeirocampos/sysmp)
+[![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)](https://github.com/mateusribeirocampos/sysmp)
+[![Live](https://img.shields.io/badge/Live-success?style=flat-square&logo=vercel&logoColor=white)](https://sysmp.vercel.app/)
+
+**Full-stack document management** with real-time updates
+
+- ✅ **Real-time communication** via Socket.io
+- ✅ **JWT authentication** with role-based access control
+- ✅ **Responsive admin interface**
+- ✅ **MVC architecture** with clear separation of concerns
+
+[🔗 View Repository](https://github.com/mateusribeirocampos/sysmp) | [🌐 Live Demo](https://sysmp.vercel.app/login) *(requires login)*
+
+---
+
+### 📱 Dr.Agenda - Cross-Platform Medical Scheduling
+
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/mateusribeirocampos/dragenda)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://github.com/mateusribeirocampos/dragenda)
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)](https://github.com/mateusribeirocampos/dragenda)
+[![Live](https://img.shields.io/badge/Live-success?style=flat-square&logo=vercel&logoColor=white)](https://dragenda.vercel.app/)
+
+**Mobile + Web application** for medical appointments
+
+- ✅ **Cross-platform** (React Native + React web)
+- ✅ **Single backend** serving both platforms
+- ✅ **30% reduction** in usability errors
+- ✅ **Authentication** with session management
+
+[🔗 View Repository](https://github.com/mateusribeirocampos/dragenda) | [🌐 Live Demo](https://dragenda.vercel.app/)
+
+---
+
+### ⚙️ Spring Boot Professional Projects
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/mateusribeirocampos/spring-boot-profissional)
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)](https://github.com/mateusribeirocampos/spring-boot-java2025)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://github.com/mateusribeirocampos/spring-boot-java2025)
+
+**Advanced Spring ecosystem** demonstrations
+
+- ✅ **Swagger/OpenAPI** documentation
+- ✅ **Docker & Kubernetes** deployment
+- ✅ **JWT authentication** with Spring Security
+- ✅ **JUnit 5** automated testing
+- ✅ **React integration**
+
+[🔗 spring-boot-profissional](https://github.com/mateusribeirocampos/spring-boot-profissional) | [🔗 spring-boot-java2025](https://github.com/mateusribeirocampos/spring-boot-java2025)
+
+---
+
+### 🌿 SantaRita - Community Management System
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://github.com/mateusribeirocampos/santarita)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/mateusribeirocampos/santarita)
+
+**Full-stack solution** for church management (members, events, donations)
+
+- ✅ **TypeScript** frontend + backend for type-safety
+- ✅ **PostgreSQL** for relational data
+- ✅ **Intuitive UI** for non-technical users
+- ✅ **Social impact** for local community
+
+[🔗 View Repository](https://github.com/mateusribeirocampos/santarita) | [⛪️ Live Demo](https://santa-rita-front-git-main-mateusribeirocampos-projects.vercel.app/)
+
+---
+
+### 📊 Scientific Data Analysis Portfolio
+
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)](https://github.com/mateusribeirocampos/diollm)
+[![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](https://github.com/mateusribeirocampos/diollm)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://github.com/mateusribeirocampos/diollm)
+
+**Advanced statistical analysis** and data science projects
+
+- ✅ **Complex dataset processing** (10K+ records)
+- ✅ **Statistical modeling** for behavioral prediction
+- ✅ **Interactive visualizations**
+- ✅ **40% reduction** in processing time with automated pipelines
+
+[🔗 View Repository](https://github.com/mateusribeirocampos/diollm)
 
 ---
 
@@ -133,6 +212,7 @@ Let's connect! 🚀
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
+<<<<<<< HEAD
 **I'm an Early 🐤** 
 
 ```text
@@ -184,6 +264,9 @@ Mac                      2 hrs 7 mins        ███░░░░░░░░�
 ```
 
 **I Mostly Code in Java** 
+=======
+**I Mostly Code in Java**
+>>>>>>> e23d1e9 (bios updated)
 
 ```text
 Java                     12 repos            ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
@@ -193,10 +276,27 @@ Python                   4 repos             ██░░░░░░░░░�
 Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 ```
 
+<<<<<<< HEAD
 
 
 
  Last Updated on 01/12/2025 01:56:41 UTC
+=======
+ Last Updated on 02/11/2025 14:27:19 UTC
+>>>>>>> e23d1e9 (bios updated)
 <!--END_SECTION:waka-->
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=mateusribeirocampos&style=flat-square&color=blue)](https://github.com/mateusribeirocampos)
+
+<div align="center">
+
+### 💭 *"My unique journey from science to technology allows me to approach development challenges with analytical rigor, systematic thinking, and proven ability to transform complex problems into practical solutions."*
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=mateusribeirocampos&color=brightgreen&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/mateusribeirocampos?style=social)](https://github.com/mateusribeirocampos)
+
+**Thanks for visiting! Let's build something amazing together! 🚀**
+
+</div>
