@@ -279,16 +279,11 @@ Makefile                 1 repo              █░░░░░░░░░░�
  Last Updated on 04/12/2025 01:42:18 UTC
 <!--END_SECTION:waka-->
 
-[![Visits Badge](https://komarev.com/ghpvc/?username=mateusribeirocampos&style=flat-square&color=blue)](https://github.com/mateusribeirocampos)
-
 <div align="center">
 
-### 💭 *"My unique journey from science to technology allows me to approach development challenges with analytical rigor, systematic thinking, and proven ability to transform complex problems into practical solutions."*
+[![Visits Badge](https://komarev.com/ghpvc/?username=mateusribeirocampos&style=flat-square&color=blue)](https://github.com/mateusribeirocampos)
 
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=mateusribeirocampos&color=brightgreen&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/mateusribeirocampos?style=social)](https://github.com/mateusribeirocampos)
+<a target="_blank" href="https://discord.com/users/campos#6304"><img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/DISCORD-button.png" height="28" alt="Discord"></a>
 
 **Thanks for visiting! Let's build something amazing together! 🚀**
 
