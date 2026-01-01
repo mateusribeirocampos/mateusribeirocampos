@@ -208,7 +208,7 @@ From scientific research to software development — I bring **analytical rigor*
 ## 📊 Coding Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C055%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C055%20hrs%2021%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
@@ -239,16 +239,20 @@ Sunday                   580 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     2 mins              ███████████████████████░░   93.76 % 
+Java                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-spring-boot-profissional 20 mins             █████████████████████████   100.00 % 
+spring-boot-profissional 20 mins             ██████████████████████░░░   88.74 % 
+spring-boot-project-dscom2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -264,7 +268,7 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2025 01:46:31 UTC
+ Last Updated on 01/01/2026 01:56:21 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
