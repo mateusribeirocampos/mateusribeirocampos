@@ -11,16 +11,13 @@
 
 ## 🚀 About Me
 
-**Backend Java Developer** | **Full-Stack Developer** | **Ex-Research Scientist (PhD)**
+**Backend Java Developer** seeking junior positions in Spring Boot development
 
-From scientific research to software development — I bring **analytical rigor** and **systematic thinking** to build **robust, scalable solutions**.
-
-- 🔭 **Currently working on:** Spring Boot enterprise applications and RESTful API architecture
-- 🌱 **Currently learning:** Advanced Spring Security, Kubernetes, AWS Cloud
-- 💼 **Seeking:** Junior Backend Java Developer or Full-Stack Developer positions (remote/hybrid)
-- 📊 **Background:** PhD in Entomology + Computer Science (in progress) — **2,000+ documented dev hours**
-- 🌍 **International experience:** 2 years at INRAE (France) leading multidisciplinary projects
-- 💡 **Superpower:** Transforming complex problems into clean, maintainable code
+- 💼 **Seeking:** Junior Backend Java / Full-Stack Developer (Remote/Hybrid)
+- 🔭 **Focus:** Spring Boot, RESTful APIs, PostgreSQL, Docker
+- 🌱 **Learning:** Spring Security, Kubernetes, AWS Cloud
+- 📊 **Background:** PhD researcher transitioning to software development — **2,000+ dev hours**
+- 🌍 **Experience:** 2 years at INRAE (France) leading technical projects
 
 ---
 
@@ -67,109 +64,72 @@ From scientific research to software development — I bring **analytical rigor*
 
 ## 🚀 Featured Projects
 
-### 🏪 Spring Boot E-commerce API Template
+### ⭐ Spring Boot E-commerce API
+> **Primary Focus: Backend Java Development**
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/mateusribeirocampos/spring-boot-crud-api-template)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)](https://github.com/mateusribeirocampos/spring-boot-crud-api-template)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/mateusribeirocampos/spring-boot-crud-api-template)
-[![Live](https://img.shields.io/badge/Live-success?style=flat-square&logo=vercel&logoColor=white)](https://spring-boot-ecommerce-api.onrender.com/)
 
-**Production-ready REST API** with enterprise-grade architecture
+Production-ready REST API with enterprise architecture
 
-- ✅ **4-layer architecture** (Entity, Repository, Service, Controller)
-- ✅ **Complex JPA relationships** (OneToMany, ManyToMany, etc.)
-- ✅ **Environment profiles** (H2 dev / PostgreSQL prod)
-- ✅ **Automated seeding** & exception handling
-- ✅ **Deployed on Render** with CI/CD
+- **4-layer architecture** (Entity, Repository, Service, Controller)
+- **JPA relationships** (OneToMany, ManyToMany, ManyToOne)
+- **Environment profiles** (H2 dev / PostgreSQL prod)
+- **CI/CD deployment** on Render
 
-[🔗 View Repository](https://github.com/mateusribeirocampos/spring-boot-crud-api-template) | [🌐 Live Demo](https://spring-boot-ecommerce-api.onrender.com/)
+[🔗 Repository](https://github.com/mateusribeirocampos/spring-boot-crud-api-template) | [🌐 Live Demo](https://spring-boot-ecommerce-api.onrender.com/)
 
 ---
 
-### 📋 SYSMP - Real-Time Deadline Management System
+### 📋 SYSMP - Real-Time Management System
+> **Full-Stack Development**
 
 [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/mateusribeirocampos/sysmp)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://github.com/mateusribeirocampos/sysmp)
-[![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)](https://github.com/mateusribeirocampos/sysmp)
-[![Live](https://img.shields.io/badge/Live-success?style=flat-square&logo=vercel&logoColor=white)](https://sysmp.vercel.app/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://github.com/mateusribeirocampos/sysmp)
 
-**Full-stack document management** with real-time updates
+Full-stack deadline tracking with real-time updates
 
-- ✅ **Real-time communication** via Socket.io
-- ✅ **JWT authentication** with role-based access control
-- ✅ **Responsive admin interface**
-- ✅ **MVC architecture** with clear separation of concerns
+- **Real-time WebSocket** communication (Socket.io)
+- **JWT authentication** with RBAC
+- **REST API** with Express.js + MVC architecture
 
-[🔗 View Repository](https://github.com/mateusribeirocampos/sysmp) | [🌐 Live Demo](https://sysmp.vercel.app/login) *(requires login)*
+[🔗 Repository](https://github.com/mateusribeirocampos/sysmp) | [🌐 Live Demo](https://sysmp.vercel.app/login)
 
 ---
 
-### 📱 Dr.Agenda - Cross-Platform Medical Scheduling
+### 📱 Dr.Agenda - Cross-Platform Medical App
+> **Mobile Development**
 
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/mateusribeirocampos/dragenda)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://github.com/mateusribeirocampos/dragenda)
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)](https://github.com/mateusribeirocampos/dragenda)
-[![Live](https://img.shields.io/badge/Live-success?style=flat-square&logo=vercel&logoColor=white)](https://dragenda.vercel.app/)
 
-**Mobile + Web application** for medical appointments
+Cross-platform appointment scheduling for healthcare
 
-- ✅ **Cross-platform** (React Native + React web)
-- ✅ **Single backend** serving both platforms
-- ✅ **30% reduction** in usability errors
-- ✅ **Authentication** with session management
+- **React Native** (iOS/Android) + **React** (web)
+- **Unified backend** serving both platforms
+- **30% reduction** in usability errors
 
-[🔗 View Repository](https://github.com/mateusribeirocampos/dragenda) | [🌐 Live Demo](https://dragenda.vercel.app/)
+[🔗 Repository](https://github.com/mateusribeirocampos/dragenda) | [🌐 Live Demo](https://dragenda.vercel.app/)
 
 ---
 
-### ⚙️ Spring Boot Professional Projects
-
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/mateusribeirocampos/spring-boot-profissional)
-[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)](https://github.com/mateusribeirocampos/spring-boot-java2025)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://github.com/mateusribeirocampos/spring-boot-java2025)
-
-**Advanced Spring ecosystem** demonstrations
-
-- ✅ **Swagger/OpenAPI** documentation
-- ✅ **Docker & Kubernetes** deployment
-- ✅ **JWT authentication** with Spring Security
-- ✅ **JUnit 5** automated testing
-- ✅ **React integration**
-
-[🔗 spring-boot-profissional](https://github.com/mateusribeirocampos/spring-boot-profissional) | [🔗 spring-boot-java2025](https://github.com/mateusribeirocampos/spring-boot-java2025)
-
----
-
-### 🌿 SantaRita - Community Management System
+### 🌿 Santa Rita - Community Management
+> **Full-Stack Development**
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://github.com/mateusribeirocampos/santarita)
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/mateusribeirocampos/santarita)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/mateusribeirocampos/santarita)
 
-**Full-stack solution** for church management (members, events, donations)
+Church management platform for members, events, and donations
 
-- ✅ **TypeScript** frontend + backend for type-safety
-- ✅ **PostgreSQL** for relational data
-- ✅ **Intuitive UI** for non-technical users
-- ✅ **Social impact** for local community
+- **TypeScript** for type-safe development
+- **PostgreSQL** relational database
+- **Intuitive UI** for non-technical users
 
-[🔗 View Repository](https://github.com/mateusribeirocampos/santarita) | [⛪️ Live Demo](https://santa-rita-front-git-main-mateusribeirocampos-projects.vercel.app/)
-
----
-
-### 📊 Scientific Data Analysis Portfolio
-
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)](https://github.com/mateusribeirocampos/diollm)
-[![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](https://github.com/mateusribeirocampos/diollm)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://github.com/mateusribeirocampos/diollm)
-
-**Advanced statistical analysis** and data science projects
-
-- ✅ **Complex dataset processing** (10K+ records)
-- ✅ **Statistical modeling** for behavioral prediction
-- ✅ **Interactive visualizations**
-- ✅ **40% reduction** in processing time with automated pipelines
-
-[🔗 View Repository](https://github.com/mateusribeirocampos/diollm)
+[🔗 Repository](https://github.com/mateusribeirocampos/santarita) | [🌐 Live Demo](https://santa-rita-front-git-main-mateusribeirocampos-projects.vercel.app/)
 
 ---
 
@@ -178,10 +138,10 @@ From scientific research to software development — I bring **analytical rigor*
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mateusribeirocampos&show_icons=true&theme=dark&include_all_commits=true" alt="Estatísticas GitHub">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mateusribeirocampos&show_icons=true&theme=dark&include_all_commits=true" alt="GitHub Stats">
     </td>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mateusribeirocampos&layout=compact&theme=dark&hide=html,css" alt="Linguagens Mais Usadas">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mateusribeirocampos&layout=compact&theme=dark&hide=html,css" alt="Top Languages">
     </td>
   </tr>
   <tr>
@@ -193,7 +153,7 @@ From scientific research to software development — I bring **analytical rigor*
 
 ---
 
-## 🏆 Conquistas
+## 🏆 Achievements
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mateusribeirocampos&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
