@@ -64,19 +64,44 @@
 
 ## 🚀 Featured Projects
 
-### ⭐ Spring Boot E-commerce API
-> **Primary Focus: Backend Java Development**
+### ⭐ DSCommerce - Complete E-commerce Platform
+> **Primary Focus: Enterprise Backend Java Development**
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/mateusribeirocampos/project-spring-boot-dscommerce)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)](https://github.com/mateusribeirocampos/project-spring-boot-dscommerce)
+[![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)](https://github.com/mateusribeirocampos/project-spring-boot-dscommerce)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/mateusribeirocampos/project-spring-boot-dscommerce)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/mateusribeirocampos/project-spring-boot-dscommerce)
+
+Enterprise-grade e-commerce REST API with advanced security and validation
+
+- **Spring Security + OAuth2** - Token-based authentication & role-based authorization
+- **Advanced validation** - Bean Validation with custom error handling
+- **Complex relationships** - Categories, Products, Orders with JPA mappings
+- **Pagination & filtering** - Optimized queries for large datasets
+- **Multi-profile deployment** - H2 (dev/test) / PostgreSQL (production)
+- **Docker containerization** - Custom Dockerfile for cloud deployment on Render.com
+- **Cloud architecture** - Supabase PostgreSQL with environment-based configuration
+
+[🔗 Repository](https://github.com/mateusribeirocampos/project-spring-boot-dscommerce) | [🌐 Live Demo](https://project-spring-boot-dscommerce.onrender.com/)
+
+---
+
+### 📦 Spring Boot CRUD API Template
+> **Backend Foundation & Best Practices**
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/mateusribeirocampos/spring-boot-crud-api-template)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)](https://github.com/mateusribeirocampos/spring-boot-crud-api-template)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/mateusribeirocampos/spring-boot-crud-api-template)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/mateusribeirocampos/spring-boot-crud-api-template)
 
-Production-ready REST API with enterprise architecture
+Production-ready REST API template with clean architecture
 
 - **4-layer architecture** (Entity, Repository, Service, Controller)
 - **JPA relationships** (OneToMany, ManyToMany, ManyToOne)
-- **Environment profiles** (H2 dev / PostgreSQL prod)
-- **CI/CD deployment** on Render
+- **Environment profiles** with H2 and PostgreSQL support
+- **Docker containerization** - Dockerfile for containerized deployment
+- **Cloud deployment** - Hosted on Render.com with Supabase PostgreSQL
 
 [🔗 Repository](https://github.com/mateusribeirocampos/spring-boot-crud-api-template) | [🌐 Live Demo](https://spring-boot-ecommerce-api.onrender.com/)
 
