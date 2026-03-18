@@ -195,22 +195,74 @@ Church management platform for members, events, and donations
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C392%20hrs%203%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.73%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.75%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1115 commits        ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
+🌆 Daytime                2376 commits        ████████████░░░░░░░░░░░░░   49.93 % 
+🌃 Evening                1214 commits        ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
+🌙 Night                  54 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   773 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Tuesday                  794 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+Wednesday                843 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+Thursday                 792 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+Friday                   631 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+Saturday                 249 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+Sunday                   677 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+Java                     11 hrs 5 mins       ████████░░░░░░░░░░░░░░░░░   32.65 % 
+TypeScript               4 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Markdown                 4 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Other                    2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+Astro                    2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+
+🔥 Editors: 
+VS Code                  16 hrs 46 mins      ████████████░░░░░░░░░░░░░   49.38 % 
+IntelliJ IDEA            14 hrs 9 mins       ██████████░░░░░░░░░░░░░░░   41.65 % 
+Terminal                 1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Vim                      49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Obsidian                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+
+🐱‍💻 Projects: 
+spring-boot-project-dscom9 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   26.55 % 
+portfolio                8 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   26.04 % 
+spring-boot-reference    5 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+web-scraper-java         2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+project-astro-blog       2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+
+💻 Operating System: 
+Linux                    18 hrs 55 mins      ██████████████░░░░░░░░░░░   55.70 % 
+Mac                      15 hrs 3 mins       ███████████░░░░░░░░░░░░░░   44.30 % 
+```
 
 **I Mostly Code in Java** 
 
 ```text
-Java                     18 repos            ████████░░░░░░░░░░░░░░░░░   31.58 % 
-TypeScript               13 repos            ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
-Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-Makefile                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Java                     18 repos            ████████░░░░░░░░░░░░░░░░░   31.03 % 
+TypeScript               13 repos            ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
+Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Makefile                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 ```
 
 
 
 
- Last Updated on 17/03/2026 02:10:59 UTC
+ Last Updated on 18/03/2026 02:14:20 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
