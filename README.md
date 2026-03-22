@@ -32,7 +32,7 @@ I have a multidisciplinary background and currently focus on building well-struc
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/mateusribeirocampos/project-spring-boot-dscommerce)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/mateusribeirocampos/project-spring-boot-dscommerce)
 
-E-commerce API built with **Java, Spring Boot, Spring Security, PostgreSQL, and Docker**, featuring JWT/OAuth2 authentication, JPA domain modeling, validation, and production deployment.
+E-commerce API built with **Java, Spring Boot, Spring Security, PostgreSQL, and Docker**, featuring JWT/OAuth2 authentication, JPA domain modeling, validation, and production deployment. A separate frontend client was also built to consume the API and demonstrate the end-to-end application flow: [DSCommerce Frontend](https://github.com/mateusribeirocampos/dscommerce-frontend).
 
 [🔗 Repository](https://github.com/mateusribeirocampos/project-spring-boot-dscommerce) | [🌐 Live Demo](https://project-spring-boot-dscommerce.onrender.com/)
 
@@ -76,6 +76,7 @@ Medical scheduling application built with **React Native, React, Node.js, and SQ
 Community platform built with **TypeScript, React, PostgreSQL, and Node.js**, focused on communication, events, and organization workflows.
 
 [🔗 Repository](https://github.com/mateusribeirocampos/santarita) | [🌐 Live Demo](https://santa-rita-front-git-main-mateusribeirocampos-projects.vercel.app/)
+
 ---
 
 ## 📊 GitHub Analytics
