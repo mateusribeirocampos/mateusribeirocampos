@@ -11,61 +11,20 @@
 
 ## 🚀 About Me
 
-**Backend Java Developer** seeking junior positions in Spring Boot development
+Backend Java Developer focused on **Spring Boot, REST APIs, PostgreSQL, Docker, and clean backend architecture**.
 
-- 💼 **Seeking:** Junior Backend Java / Full-Stack Developer (Remote/Hybrid)
-- 🔭 **Focus:** Spring Boot, RESTful APIs, PostgreSQL, Docker
-- 🌱 **Learning:** Spring Security, Kubernetes, AWS Cloud
-- 📊 **Background:** PhD researcher transitioning to software development — **2,000+ dev hours**
-- 🌍 **Experience:** 2 years at INRAE (France) leading technical projects
+I have a multidisciplinary background and currently focus on building well-structured, production-ready backend systems.
 
----
-
-## 🛠️ Tech Stack
-
-### Backend & APIs
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### Frontend & Mobile
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Data Science & Analytics
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-
-### DevOps & Tools
-
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- 💼 **Target roles:** Junior Backend Java Developer / Backend Software Engineer
+- 🔭 **Core stack:** Java, Spring Boot, Spring Security, JPA/Hibernate, PostgreSQL, Docker
+- 🌱 **Currently improving:** Testing, cloud deployment, Kubernetes, AWS
+- 📊 **Background:** PhD researcher with 3,400+ coding hours tracked
 
 ---
 
 ## 🚀 Featured Projects
 
-### ⭐ DSCommerce - Complete E-commerce Platform
-> **Primary Focus: Enterprise Backend Java Development**
+### ⭐ DSCommerce - E-commerce Backend
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/mateusribeirocampos/project-spring-boot-dscommerce)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)](https://github.com/mateusribeirocampos/project-spring-boot-dscommerce)
@@ -73,89 +32,50 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/mateusribeirocampos/project-spring-boot-dscommerce)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/mateusribeirocampos/project-spring-boot-dscommerce)
 
-Enterprise-grade e-commerce REST API with advanced security and validation
-
-- **Spring Security + OAuth2** - Token-based authentication & role-based authorization
-- **Advanced validation** - Bean Validation with custom error handling
-- **Complex relationships** - Categories, Products, Orders with JPA mappings
-- **Pagination & filtering** - Optimized queries for large datasets
-- **Multi-profile deployment** - H2 (dev/test) / PostgreSQL (production)
-- **Docker containerization** - Custom Dockerfile for cloud deployment on Render.com
-- **Cloud architecture** - Supabase PostgreSQL with environment-based configuration
+E-commerce API built with **Java, Spring Boot, Spring Security, PostgreSQL, and Docker**, featuring JWT/OAuth2 authentication, JPA domain modeling, validation, and production deployment.
 
 [🔗 Repository](https://github.com/mateusribeirocampos/project-spring-boot-dscommerce) | [🌐 Live Demo](https://project-spring-boot-dscommerce.onrender.com/)
 
 ---
 
 ### 📦 Spring Boot CRUD API Template
-> **Backend Foundation & Best Practices**
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/mateusribeirocampos/spring-boot-crud-api-template)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)](https://github.com/mateusribeirocampos/spring-boot-crud-api-template)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/mateusribeirocampos/spring-boot-crud-api-template)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/mateusribeirocampos/spring-boot-crud-api-template)
 
-Production-ready REST API template with clean architecture
-
-- **4-layer architecture** (Entity, Repository, Service, Controller)
-- **JPA relationships** (OneToMany, ManyToMany, ManyToOne)
-- **Environment profiles** with H2 and PostgreSQL support
-- **Docker containerization** - Dockerfile for containerized deployment
-- **Cloud deployment** - Hosted on Render.com with Supabase PostgreSQL
+Reusable REST API template built with **Java, Spring Boot, JPA/Hibernate, PostgreSQL, and Docker**, highlighting layered architecture, CRUD operations, and environment-based configuration.
 
 [🔗 Repository](https://github.com/mateusribeirocampos/spring-boot-crud-api-template) | [🌐 Live Demo](https://spring-boot-ecommerce-api.onrender.com/)
 
 ---
 
 ### 📋 SYSMP - Real-Time Management System
-> **Full-Stack Development**
 
 [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/mateusribeirocampos/sysmp)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://github.com/mateusribeirocampos/sysmp)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://github.com/mateusribeirocampos/sysmp)
 
-Full-stack deadline tracking with real-time updates
-
-- **Real-time WebSocket** communication (Socket.io)
-- **JWT authentication** with RBAC
-- **REST API** with Express.js + MVC architecture
+Full-stack management system built with **TypeScript, React, Node.js, Express, Socket.io, and JWT**, focused on real-time updates and authenticated workflows.
 
 [🔗 Repository](https://github.com/mateusribeirocampos/sysmp) | [🌐 Live Demo](https://sysmp.vercel.app/login)
 
 ---
 
-### 📱 Dr.Agenda - Cross-Platform Medical App
-> **Mobile Development**
+## 📁 Additional Projects
 
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/mateusribeirocampos/dragenda)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://github.com/mateusribeirocampos/dragenda)
-[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)](https://github.com/mateusribeirocampos/dragenda)
+### 📱 Dragenda
 
-Cross-platform appointment scheduling for healthcare
-
-- **React Native** (iOS/Android) + **React** (web)
-- **Unified backend** serving both platforms
-- **30% reduction** in usability errors
+Medical scheduling application built with **React Native, React, Node.js, and SQLite**, designed for cross-platform appointment management.
 
 [🔗 Repository](https://github.com/mateusribeirocampos/dragenda) | [🌐 Live Demo](https://dragenda.vercel.app/)
 
----
+### 🌿 Santa Rita
 
-### 🌿 Santa Rita - Community Management
-> **Full-Stack Development**
-
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://github.com/mateusribeirocampos/santarita)
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/mateusribeirocampos/santarita)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/mateusribeirocampos/santarita)
-
-Church management platform for members, events, and donations
-
-- **TypeScript** for type-safe development
-- **PostgreSQL** relational database
-- **Intuitive UI** for non-technical users
+Community platform built with **TypeScript, React, PostgreSQL, and Node.js**, focused on communication, events, and organization workflows.
 
 [🔗 Repository](https://github.com/mateusribeirocampos/santarita) | [🌐 Live Demo](https://santa-rita-front-git-main-mateusribeirocampos-projects.vercel.app/)
-
 ---
 
 ## 📊 GitHub Analytics
