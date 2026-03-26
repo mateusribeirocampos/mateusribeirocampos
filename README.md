@@ -46,6 +46,10 @@ Community platform built with **TypeScript, React, PostgreSQL, and Node.js**, fo
 
 [🔗 Repository](https://github.com/mateusribeirocampos/santarita) | [🌐 Live Demo](https://santa-rita-front-git-main-mateusribeirocampos-projects.vercel.app/)
 
+---
+
+## Additional Projects
+
 ### 📦 Spring Boot CRUD API Template
 
 Reusable REST API template built with **Java, Spring Boot, JPA/Hibernate, PostgreSQL, and Docker**, highlighting layered architecture, CRUD operations, and environment-based configuration.
